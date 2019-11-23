@@ -1,6 +1,7 @@
 
-# Welcome to LearnCS8 Resume Website
+# Jake Sparrer Resume 
+# Files
+!{The bio of my resume website, and side tabs for my experience and education] (img/bio.jpg)
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+> Written with [StackEdit](https://stackedit.io/).
